@@ -2,7 +2,7 @@
 
 # About Me:
 
-💻 Full-stack developer, graduated from Le Wagon Full Stack Development bootcamp in June 2023<br> 🌎 Final project: ([wayfindr.co.uk](https://www.wayfindr.co.uk/)) - A European trip itineraty generator<br>🔎 Actively looking for a junior web dev role<br>🌱 Currently self-studying node.js and vue.js<br>📫 How to reach me: [linkedin.com/in/alice-jackson/](https://www.linkedin.com/in/alice-jackson/)<br>
+💻 Full-stack developer, graduated from Le Wagon Full Stack Development bootcamp in June 2023<br> 🌎 Final project: ([wayfindr.co.uk](https://www.wayfindr.co.uk/)) - A European trip itineraty generator<br>🔎 Actively looking for a junior web dev role<br>🌱 Currently self-studying ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) and [vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)<br>📫 How to reach me: [linkedin.com/in/alice-jackson/](https://www.linkedin.com/in/alice-jackson/)<br>
 
 # Tech Stack:
 
